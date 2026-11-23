@@ -10,7 +10,7 @@ English | [简体中文](./README_zh.md)
 **Split complex coding tasks across a team of parallel `pi` agents—each working in its own isolated git worktree—and review everything from one clean window.**
 
 > [!NOTE]
-> Replace `<your-repo-url>` and add a screenshot or terminal recording below once your repository is published.
+> Add a screenshot or terminal recording below to showcase Swarm in action:
 >
 > `<!-- TODO: Add screenshot or terminal recording here: ![Swarm Demo](./assets/demo.png) -->`
 
@@ -65,7 +65,7 @@ Swarm turns your current `pi` session into a **Coordinator**. It breaks the task
 Clone the repository into `pi`'s extensions directory:
 
 ```bash
-git clone <your-repo-url> ~/.pi/agent/extensions/swarm
+git clone https://github.com/zerain050424/Pi-Swarm.git ~/.pi/agent/extensions/swarm
 ```
 
 `pi` discovers and loads the extension automatically on startup.

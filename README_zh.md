@@ -10,7 +10,7 @@
 **把一个复杂的开发任务拆给多个并行工作的 `pi` 助手，各自独立改代码、互不干扰，再统一验收汇总。**
 
 > [!NOTE]
-> 发布仓库后，请将文中的 `<your-repo-url>` 替换为实际仓库地址，并在下方补充演示截图或录屏。
+> 可在下方补充演示截图或终端录屏：
 >
 > `<!-- TODO: 在此补充截图或终端录屏：![Swarm Demo](./assets/demo.png) -->`
 
@@ -65,7 +65,7 @@ Swarm 会把你当前的 `pi` 会话变成**协调员**。它会先帮你拆解�
 将本仓库克隆到 `pi` 的扩展目录即可生效：
 
 ```bash
-git clone <your-repo-url> ~/.pi/agent/extensions/swarm
+git clone https://github.com/zerain050424/Pi-Swarm.git ~/.pi/agent/extensions/swarm
 ```
 
 `pi` 会在启动时自动发现并加载该目录下的扩展。
