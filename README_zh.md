@@ -229,4 +229,4 @@ node --test swarm.test.ts
 ## 许可证
 ### 许可证
 
-本项目采用 **MIT License**（请在仓库根目录补充 `LICENSE` 文件以正式生效）。
+本项目采用 **MIT License**。
