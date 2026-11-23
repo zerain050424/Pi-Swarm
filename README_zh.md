@@ -8,12 +8,6 @@
 [![Tests](https://img.shields.io/badge/Tests-54%20passed-brightgreen.svg)](#测试与开发)
 
 **把一个复杂的开发任务拆给多个并行工作的 `pi` 助手，各自独立改代码、互不干扰，再统一验收汇总。**
-
-> [!NOTE]
-> 可在下方补充演示截图或终端录屏：
->
-> `<!-- TODO: 在此补充截图或终端录屏：![Swarm Demo](./assets/demo.png) -->`
-
 ---
 
 ## 目录
